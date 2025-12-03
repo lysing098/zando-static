@@ -1,0 +1,258 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Straight Leg Jeans",
+      "code": "22224111062",
+      "colors": ["Blue", "Black", "Gray"],
+      "size": [
+        { "value": 24, "stock": 10 },
+        { "value": 26, "stock": 5 },
+        { "value": 30, "stock": 0 },
+        { "value": 32, "stock": 3 }
+      ],
+      "originalPrice": 21.59,
+      "discount": "50",
+      "imageUrl": [
+        "https://zandokh.com/image/cache/catalog/products/2024-12/22224111062/IMG_0205-cr-450x672.jpg"
+      ],
+      "category": "Jeans"
+    },
+    {
+      "id": 2,
+      "title": "Regular Track Jacket",
+      "code": "2122411943",
+      "colors": ["Black", "Blue", "White"],
+      "size": [
+        { "value": "s", "stock": 10 },
+        { "value": "m", "stock": 5 },
+        { "value": "l", "stock": 0 },
+        { "value": "xl", "stock": 3 },
+        { "value": "xxl", "stock": 3 }
+      ],
+      "originalPrice": 30.0,
+      "discount": "30",
+      "imageUrl": [
+        "https://zandokh.com/image/catalog/products/2024-12/2122411943/IMG_0151.jpg"
+      ],
+      "category": "Shirts"
+    },
+    {
+      "id": 3,
+      "title": "Loose Fit Strip Shirts",
+      "code": "4122502283",
+      "colors": ["White", "Blue", "Green"],
+      "size": [
+        { "value": "s", "stock": 10 },
+        { "value": "m", "stock": 5 },
+        { "value": "l", "stock": 0 },
+        { "value": "xl", "stock": 3 }
+      ],
+      "originalPrice": 23.95,
+      "discount": "70",
+      "imageUrl": [
+        "https://zandokh.com/image/catalog/products/2025-03/4122502283/10S25SHL009_Blue%20(1).jpg"
+      ],
+      "category": "Shirts"
+    },
+    {
+      "id": 4,
+      "title": "Café-Regular Fitted T-Shirt",
+      "code": "4122501278",
+      "colors": ["Black", "Brown", "White"],
+      "size": [
+        { "value": "s", "stock": 10 },
+        { "value": "m", "stock": 5 },
+        { "value": "l", "stock": 0 },
+        { "value": "xl", "stock": 3 },
+        { "value": "xxl", "stock": 3 }
+      ],
+      "originalPrice": 20.95,
+      "discount": "30",
+      "imageUrl": [
+        "https://zandokh.com/image/catalog/products/2025-04/4122501278/10S25TSS006_Cool%20Brew%20(1).jpg"
+      ],
+      "category": "Shirts"
+    },
+    {
+      "id": 5,
+      "title": "Regular Knitted Cadigan",
+      "code": "21224121109",
+      "colors": ["Gray", "Black", "White"],
+      "size": [
+        { "value": "s", "stock": 10 },
+        { "value": "m", "stock": 5 },
+        { "value": "l", "stock": 0 },
+        { "value": "xl", "stock": 3 },
+        { "value": "xxl", "stock": 3 }
+      ],
+      "originalPrice": 25.59,
+      "discount": "70",
+      "imageUrl": [
+        "https://zandokh.com/image/cache/catalog/products/2025-05/21224121109/ZANDO1005202524250-cr-450x672.jpg"
+      ],
+      "category": "Shirts"
+    },
+    {
+      "id": 6,
+      "title": "Regular Straight Fit jeans",
+      "code": "1222410634",
+      "colors": ["Blue", "Black"],
+      "size": [
+        { "value": 24, "stock": 10 },
+        { "value": 26, "stock": 5 },
+        { "value": 30, "stock": 0 },
+        { "value": 32, "stock": 3 }
+      ],
+      "originalPrice": 18.59,
+      "discount": "70",
+      "imageUrl": [
+        "https://zandokh.com/image/cache/catalog/products/2024-12/1222410634/IMG_0954-cr-450x672.jpg"
+      ],
+      "category": "Jean"
+    },
+    {
+      "id": 7,
+      "title": "Wide-Leg Trousers",
+      "code": "2122408768",
+      "colors": ["Black", "Beige", "Gray"],
+      "size": [
+        { "value": 24, "stock": 10 },
+        { "value": 26, "stock": 5 },
+        { "value": 30, "stock": 0 },
+        { "value": 32, "stock": 3 }
+      ],
+      "originalPrice": 22.59,
+      "discount": "70",
+      "imageUrl": [
+        "https://zandokh.com/image/cache/catalog/products/2024-10/2122408768/Wide-Leg-Trousers%20(3)-cr-450x672.jpg"
+      ],
+      "category": "Trousers"
+    },
+    {
+      "id": 8,
+      "title": "Oversized Unisex T-shirts",
+      "code": "22224111120",
+      "colors": ["White", "Black", "Red"],
+      "size": [
+        { "value": "s", "stock": 10 },
+        { "value": "m", "stock": 5 },
+        { "value": "l", "stock": 0 },
+        { "value": "xl", "stock": 3 },
+        { "value": "xxl", "stock": 3 }
+      ],
+      "originalPrice": 12.59,
+      "discount": "50",
+      "imageUrl": [
+        "https://zandokh.com/image/cache/catalog/products/2025-01/22224111120/IMG_9669-cr-450x672.jpg"
+      ],
+      "category": "Shirts"
+    },
+    {
+      "id": 9,
+      "title": "Skateboarding Sneakers",
+      "code": "5252411088",
+      "colors": ["White", "Black", "Gray", "Red"],
+      "size": [
+        { "value": 35, "stock": 10 },
+        { "value": 36, "stock": 5 },
+        { "value": 37, "stock": 0 },
+        { "value": 38, "stock": 3 },
+        { "value": 39, "stock": 3 },
+        { "value": 40, "stock": 3 }
+      ],
+      "originalPrice": 23.15,
+      "discount": "40",
+      "imageUrl": [
+        "https://zandokh.com/image/cache/catalog/products/2025-03/5252411088/ZANDO26.03.20258946-cr-450x672.jpg"
+      ],
+      "category": "Sneaker"
+    },
+    {
+      "id": 10,
+      "title": "Lightspeed Running Sneakers",
+      "code": "5162408039",
+      "colors": ["White", "Black", "Blue"],
+      "size": [
+        { "value": 35, "stock": 10 },
+        { "value": 36, "stock": 5 },
+        { "value": 37, "stock": 0 },
+        { "value": 38, "stock": 3 },
+        { "value": 39, "stock": 3 },
+        { "value": 40, "stock": 3 }
+      ],
+      "originalPrice": 48.59,
+      "discount": "50",
+      "imageUrl": [
+        "https://zandokh.com/image/cache/catalog/products/2025-01/5162408039/IMG_0172-cr-450x672.jpg"
+      ],
+      "category": "Sneaker"
+    },
+    {
+      "id": 11,
+      "title": "Cushion Running Sneakers",
+      "code": "5162408043",
+      "colors": ["White", "Black", "Gray"],
+      "size": [
+        { "value": 35, "stock": 10 },
+        { "value": 36, "stock": 5 },
+        { "value": 37, "stock": 0 },
+        { "value": 38, "stock": 3 },
+        { "value": 39, "stock": 3 },
+        { "value": 40, "stock": 3 }
+      ],
+      "originalPrice": 75.95,
+      "discount": "50",
+      "imageUrl": [
+        "https://zandokh.com/image/cache/catalog/products/2025-02/5162408043%20Replace/IMG_0198-cr-450x672.jpg"
+      ],
+      "category": "Sneaker"
+    },
+    {
+      "id": 12,
+      "title": "Sport life cushion Sneakers",
+      "code": "5262408026",
+      "colors": ["White", "Black", "Green"],
+      "size": [
+        { "value": 35, "stock": 10 },
+        { "value": 36, "stock": 5 },
+        { "value": 37, "stock": 0 },
+        { "value": 38, "stock": 3 },
+        { "value": 39, "stock": 3 },
+        { "value": 40, "stock": 3 }
+      ],
+      "originalPrice": 50.59,
+      "discount": "50",
+      "imageUrl": [
+        "https://zandokh.com/image/cache/catalog/products/2025-01/5262408026/IMG_0389-cr-450x672.jpg"
+      ],
+      "category": "Sneaker"
+    },
+    {
+      "id": 13,
+      "title": "Sisburma Regular Print T-Shirt",
+      "code": "8112507004",
+      "colors": ["White", "Black", "Yellow"],
+      "size": [{ "value": "l", "stock": 10 }],
+      "originalPrice": 16.59,
+      "discount": "12",
+      "imageUrl": [
+        "https://zandokh.com/image/catalog/products/2025-07/8112507004%20replace/8112507004-T-shirt%20(7).jpg"
+      ],
+      "category": "Shirts"
+    },
+    {
+      "id": 14,
+      "title": "Oversized T-Shirts With Printed",
+      "code": "1122501835",
+      "colors": ["White", "Black"],
+      "size": [{ "value": "l", "stock": 10 }],
+      "originalPrice": 13.59,
+      "discount": "40",
+      "imageUrl": [
+        "https://zandokh.com/image/cache/catalog/products/2025-04/1122501835/DSC0000-24-cr-450x672.jpg"
+      ],
+      "category": "Shirts"
+    }
+  ]
+}
